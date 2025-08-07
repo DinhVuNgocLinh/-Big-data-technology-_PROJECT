@@ -1,1 +1,1 @@
-# -Big-data-technology-_PROJECT
+# Customer-Segmentation-on-Retail-Data
